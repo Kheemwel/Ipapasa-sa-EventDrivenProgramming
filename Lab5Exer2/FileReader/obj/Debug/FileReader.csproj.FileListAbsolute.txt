@@ -8,3 +8,14 @@ C:\Users\ComputerLab4PC1\Desktop\FileReader\obj\Debug\FileReader.exe
 C:\Users\ComputerLab4PC1\Desktop\FileReader\obj\Debug\FileReader.pdb
 C:\Users\ComputerLab4PC1\Desktop\FileReader\obj\Debug\FileReader.FrmRegistration.resources
 C:\Users\ComputerLab4PC1\Desktop\FileReader\obj\Debug\FileReader.FrmStudentRecord.resources
+E:\Event-Driven Programming\Lab5Exer2\FileReader\bin\Debug\FileReader.exe.config
+E:\Event-Driven Programming\Lab5Exer2\FileReader\bin\Debug\FileReader.exe
+E:\Event-Driven Programming\Lab5Exer2\FileReader\bin\Debug\FileReader.pdb
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.csprojAssemblyReference.cache
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.FrmOpenTextFile.resources
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.FrmRegistration.resources
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.FrmStudentRecord.resources
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.Properties.Resources.resources
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.csproj.GenerateResource.cache
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.exe
+E:\Event-Driven Programming\Lab5Exer2\FileReader\obj\Debug\FileReader.pdb

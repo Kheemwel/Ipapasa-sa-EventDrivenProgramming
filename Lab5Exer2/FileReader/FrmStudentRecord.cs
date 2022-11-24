@@ -46,6 +46,7 @@ namespace FileReader
         {
             MessageBox.Show("Successfully Uploaded!");
             lvShowText.Clear();
+            Close();
         }
     }
 }

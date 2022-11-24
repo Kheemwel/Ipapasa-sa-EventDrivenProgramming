@@ -232,6 +232,7 @@
             this.btnRecords.TabIndex = 20;
             this.btnRecords.Text = "Records";
             this.btnRecords.UseVisualStyleBackColor = true;
+            this.btnRecords.Click += new System.EventHandler(this.btnRecords_Click);
             // 
             // FrmRegistration
             // 

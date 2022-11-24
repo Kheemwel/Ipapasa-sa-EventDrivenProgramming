@@ -43,5 +43,10 @@ namespace FileReader
                     );
             }
         }
+
+        private void btnRecords_Click(object sender, EventArgs e)
+        {
+            new FrmStudentRecord().ShowDialog();
+        }
     }
 }

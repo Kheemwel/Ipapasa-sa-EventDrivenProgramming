@@ -16,7 +16,7 @@ namespace FileReader
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmStudentRecord());
+            Application.Run(new FrmRegistration());
         }
     }
 }
